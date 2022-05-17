@@ -1,0 +1,11 @@
+listas armazenam multiplos objetos em uma variavel
+cada  objeto tem uma indice, que indica sua posicao dentro da lista
+o indice 0 refere-se ao primeiro elemento de uma lista
+
+A funcao len () informa a quantidade de onjetos em uma linha.
+#A funcao list () altera o tipo de um objeto para list e tambem para criar uma nova lista.
+sintaxe para acessar um objeto e: [indice].
+o primeiro objeto da lista tem sempre valor da indice 0.
+print (minhalista [:4]) # imprime [´Talba´ ´.iguape´ . ´peces ´ cuabuco'[4 - 1)
+print (minhalista [:2:] # imprime [´peces ´. ´cuabuco ´. lagoinha ´. butupida ´.´ Paracuru´ . mundau ´]
+a estrutura "ir" e utilizada para checar se um determinado objeto.
